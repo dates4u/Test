@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Test</title>
+    <meta name='description' content='Testing Hub'>
+  </head>
+  <body>
+    <h1><span style='font-family: FreeMono, monospace'>Nothing</span></h1>
+    <h4><span style='font-family: FreeMono, monospace'><i>aaag</i></span></h4>
+    <hr>
+    <audio controls loop autoplay hrc='songfiles/RizzLife.mp3'>
+    <p><span style='font-family: FreeMono, monospace'><i>Rizz Life</i></span></p>
+    <br><br><br>
+    <p><span style='font-family: FreeMono, monospace'>Song played using Coolify.</span></p>
+  </body>
+</html>
